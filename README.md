@@ -1,4 +1,4 @@
-# decison-tree-report-2020
+# Decison tree and naive bayes report 2020
 Decision tree and naive bayes explanation using examples.
 
 This repository consists of the project report and the slides made as a part of final year B. Tech. project.
